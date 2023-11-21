@@ -4,7 +4,7 @@
 
 Our project focuses on delivering a highly accurate English to French translation service. We aim to conduct a comprehensive comparison of different machine learning models, including sequence-to-sequence, bidirectional RNN, and Transformers, to evaluate their translation efficacy. Each model will be meticulously trained on a robust bilingual dataset, ensuring a sustainable approach to capturing the intricacies of language translation. Our goal is to identify which model not only performs with the highest accuracy but also integrates seamlessly for real-world application. We anticipate that our findings will contribute to the development of more sophisticated and nuanced language translation tools, paving the way for better cross-cultural communication.
 
-[GitHub link](#)
+[GitHub link](#https://github.com/naveen-1609/Talk_Beyond)
 
 ## Introduction
 
